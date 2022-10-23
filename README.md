@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vancao2m
 - 👀 I’m interested in sweets
 - 🌱 I’m currently learning Logistics and supply chain management but I "fell in love" with data analyst
-- 💞️ I’m looking to collaborate on people who love data 
+- 💞️ I’m looking to collaborate with people who love data 
 - 📫 Please leave me a message ^^
 
 <!---
